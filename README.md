@@ -19,7 +19,7 @@ Step 1: Installation of the Windows version of Civ 5
 
 
 Step 2: Installing Vox populi
-- Install [Protontricks](https://github.com/Matoking/protontricks). It is available as a Flatpak so you should be able to install it.
+- Install [Protontricks](https://github.com/Matoking/protontricks). Follow their installation instructions as you may need to install Winetricks or do some other things to get it working.
 - Download the [Vox Populi Automatic Installer](https://forums.civfanatics.com/threads/community-patch-how-to-install.528034/)
 - Once downloaded, right click on the executable and select open with -> protontricks
 - ![Select open with, then proton tricks](https://github.com/TeaDrinkingProgrammer/Civilization-V-Vox-Populi-on-Linux/blob/main/select%20protontricks.png)
