@@ -5,7 +5,7 @@ Contrary to other guides, this guide doesn't require Lutris, Bottles or any othe
 I came with the idea to do it this way because the other solutions didn't quite work for me but that doesn't mean they are invalid of course.
 
 Some other handy links:
-https://gitlab.com/baaard/vox-populi-on-linux/-/blob/main/README.md
+https://gitlab.com/baaard/vox-populi-on-linux/-/blob/main/README.md  
 https://forums.civfanatics.com/threads/vox-populi-on-linux.673879/page-2
 
 If you have any problems, please make an issue and I will try to help
@@ -22,7 +22,7 @@ Step 2: Installing Vox populi
 - Install [Protontricks](https://github.com/Matoking/protontricks). Follow their installation instructions as you may need to install Winetricks or do some other things to get it working.
 - Download the [Vox Populi Automatic Installer](https://forums.civfanatics.com/threads/community-patch-how-to-install.528034/)
 - Once downloaded, right click on the executable and select open with -> protontricks
-- ![Select open with, then proton tricks](https://github.com/TeaDrinkingProgrammer/Civilization-V-Vox-Populi-on-Linux/blob/main/select%20protontricks.png)
+![Select open with, then proton tricks](https://github.com/TeaDrinkingProgrammer/Civilization-V-Vox-Populi-on-Linux/blob/main/select%20protontricks.png)
 - (Note: the image is from KDE but this should work in other Desktop interfaces as well).
 - Select Civilization V, click OK and wait for a bit. After a few seconds the install window should pop up
 - The default install location is still valid since the exe file is loaded within the environment (wine prefix) of Civ 5
@@ -36,7 +36,7 @@ You would think VP is installed but there is a small problem. VP installs the mo
 - 3b
   - Open Protontricks and select Civ 5. You can safely ignore the warning about 64-bit prefixes
   - Select "Select the default prefix" and click on OK
-  - ![Selection screen prefix protontricks](https://github.com/TeaDrinkingProgrammer/Civilization-V-Vox-Populi-on-Linux/blob/main/default%20wineprefix.png)
+![Selection screen prefix protontricks](https://github.com/TeaDrinkingProgrammer/Civilization-V-Vox-Populi-on-Linux/blob/main/default%20wineprefix.png)
   - In the next window, select "browse files" and hit OK. A new window or tab should open in your file manager (check because with Wayland the app is not     brought to the foreground). 
   - You can close the Protontricks window(s)
   - navigate to "some_directory/drive_c/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization V/" where "some_directory" is the path where Protontricks sent you.
