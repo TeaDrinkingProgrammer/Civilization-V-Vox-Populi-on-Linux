@@ -32,14 +32,17 @@ Step 3: A small hack
 You would think VP is installed but there is a small problem. VP installs the mods in the mod directory (the one that was selected) but it also installs some textures in the default steam install location. The problem is that Civ5 is not there. We thus have to move the files from the directory VP thinks is the steam install location to the actual one.
 
 - 3a
+  - Try navigating to the following path: "~/.local/share/Steam/steamapps/compatdata/8930/pfx/drive_c/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization". Is there 1 or 2 folders? If there are, skip to step 4. If not, go to 3b and then step 4.
+- 3b
   - Open Protontricks and select Civ 5. You can safely ignore the warning about 64-bit prefixes
   - Select "Select the default prefix" and click on OK
   - ![Selection screen prefix protontricks](https://github.com/TeaDrinkingProgrammer/Civilization-V-Vox-Populi-on-Linux/blob/main/default%20wineprefix.png)
   - In the next window, select "browse files" and hit OK. A new window or tab should open in your file manager (check because with Wayland the app is not     brought to the foreground). 
   - You can close the Protontricks window(s)
+  - navigate to "some_directory/drive_c/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization V/" where "some_directory" is the path where Protontricks sent you.
 
-- 3b
-  -  navigate to "some_directory/drive_c/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization V/" where "some_directory" is the path where Protontricks sent you. The path will look something like this: "~/.local/share/Steam/steamapps/compatdata/8930/pfx/drive_c/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization V/
+Step 4:
+
   -  Copy the contents of the folder. At the time of writing, this is only the "Assets" folder.
   -  Paste the folder in the installation location of Civ 5 of Steam. The default location is: "~/.local/share/Steam/steamapps/common/Sid Meier's Civilization V/"
 
