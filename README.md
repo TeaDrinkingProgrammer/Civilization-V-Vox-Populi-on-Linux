@@ -4,7 +4,7 @@ This is a guide on how to install the Vox Populi Mod for Civilization V on Linux
 Contrary to other guides, this guide doesn't require Lutris, Bottles or any other such program. Only Steam and a program called ProtonTricks is required.
 I came with the idea to do it this way because the other solutions didn't quite work for me but that doesn't mean they are invalid of course.
 
-Some other handy links:
+Thanks to Baaard and the civfanatics forum thread on this topic for the help and inspiration:  
 https://gitlab.com/baaard/vox-populi-on-linux/-/blob/main/README.md  
 https://forums.civfanatics.com/threads/vox-populi-on-linux.673879/page-2
 
