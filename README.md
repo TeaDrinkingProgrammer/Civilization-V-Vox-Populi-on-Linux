@@ -30,7 +30,7 @@ If you have any problems, please make an issue and I will try to help
 You would think VP is installed but there is a small problem. VP installs the mods in the mod directory (the one that was selected) but it also installs some textures in the default steam install location. The problem is that Civ5 is not there. We thus have to move the files from the directory VP thinks is the steam install location to the actual one.
 
 ## 3a
-  - Try navigating to the following path: "~/.local/share/Steam/steamapps/compatdata/8930/pfx/drive_c/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization".Does it contain an "Asset" folder. If there is, skip to step 4. Is the folder empty? Go to 3b and then step 4.
+  - Try navigating to the following path: "~/.local/share/Steam/steamapps/compatdata/8930/pfx/drive_c/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization".Does it contain an "Asset" folder? If there is, skip to step 4. Is the folder empty? Go to 3b and then step 4.
 ## 3b
   - Open Protontricks and select Civ 5. You can safely ignore the warning about 64-bit prefixes.
   - Select "Select the default prefix" and click on OK.
