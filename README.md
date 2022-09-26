@@ -10,7 +10,7 @@ If you have any problems, please make an issue and I will try to help
 
 # Step 1: Installation of the Windows version of Civ 5
 - Open Steam (on your Linux desktop, no Lutris). 
-- Right click on Civilization V, right-click on Compatibility and check the "force compatibility" box. In the dropdown, select either the newest version of proton or proton experimental. Either will work.
+- Right click on Civilization V, right-click on Compatibility and check the "force compatibility" box. In the dropdown, select either the newest version of Proton or Proton experimental. Either will work.
 ![Selection screen compatibility Steam](https://github.com/TeaDrinkingProgrammer/Civilization-V-Vox-Populi-on-Linux/blob/main/force%20proton.png)
 - Now, it will start installing or updating to the windows version.
   -  (Note: reports suggest that the proton version works better than the native version, so this is useful even without VP).
