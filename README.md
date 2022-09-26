@@ -37,12 +37,12 @@ You would think VP is installed but there is a small problem. VP installs the mo
 ![Selection screen prefix protontricks](https://github.com/TeaDrinkingProgrammer/Civilization-V-Vox-Populi-on-Linux/blob/main/default%20wineprefix.png)
   - In the next window, select "browse files" and hit OK. A new window or tab should open in your file manager (check because with Wayland the app is not     brought to the foreground). 
   - You can close the Protontricks window(s).
-  - navigate to "some_directory/drive_c/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization V/" where "some_directory" is the path where Protontricks sent you.
+  - navigate to "some_directory/pfx/drive_c/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization V/" where "some_directory" is the path where Protontricks sent you.
 
 # Step 4:
 
   -  Copy the contents of the folder.
-  -  Paste the folder in the installation location of Civ 5 of Steam. The default location is: "~/.local/share/Steam/steamapps/common/Sid Meier's Civilization V/".
+  -  Paste the folder in the installation location of Civ 5 of Steam. The default location is: "~/.local/share/Steam/steamapps/common/Sid Meier's Civilization V/". If it is not there, check your download locations in Steam (Settings -> Downloads -> Steam Library Folders) to see where Civ 5 is installed.
 
 
 # Step 5: Enjoy the game!
